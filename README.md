@@ -1,2 +1,2 @@
 # rp
-Scripting a small roleplay server from time to time; 
+(trying to) script cripting a roleplay server; 
